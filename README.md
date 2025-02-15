@@ -4,7 +4,7 @@
 🌱 Product Engineer
 🚀 DevOps Enthusiast
 🎥 A Part-time Content Creator
-💼 Freelancer &Problem Solver
+💼 Software Developer & Problem Solver
 ⚡ React Developer
 
 📩 Let's connect! Reach me at simon.klg123@gmail.com and let's create something amazing! 😊🚀
