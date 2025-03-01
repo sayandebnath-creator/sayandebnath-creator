@@ -12,7 +12,7 @@ I'm **Sayan Debanth**, a passionate and skilled professional:
 I'm currently working on: The YouTube, Blinkit, Omegle Project, where I'm enhancing features, adding caching mechanisms with Redis, and improving the backend using Node.js, Express, and MongoDB.
 
 ## 📱 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](sikaboy_official)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sikaboy_official/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-debnath-a05051245/)
 
 ## 💻 Tech Stack:
@@ -25,10 +25,6 @@ I'm currently working on: The YouTube, Blinkit, Omegle Project, where I'm enhanc
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats:
-![Aadil Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
 
 
 📩 **Let's connect!**  
