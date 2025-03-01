@@ -12,8 +12,8 @@ I'm **Sayan Debanth**, a passionate and skilled professional:
 I'm currently working on: The YouTube, Blinkit, Omegle Project, where I'm enhancing features, adding caching mechanisms with Redis, and improving the backend using Node.js, Express, and MongoDB.
 
 ## 📱 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your_instagram_link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your_linkedin_link)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](sikaboy_official)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-debnath-a05051245/)
 
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
