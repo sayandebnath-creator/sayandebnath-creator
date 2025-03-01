@@ -1,5 +1,5 @@
-- # About Me 🚀:
-- I am a Full-Stack Developer at Cogzin Technologies, currently focusing on React, Next.js, and Python while also learning DevOps. With experience in Node.js, Express, MongoDB, MySQL, Redux, and Tailwind CSS, I am passionate about web development, authentication systems, and UI/UX improvements. My expertise extends to backend development, authentication, and optimizing web applications for better performance. 🚀
+## About Me 🚀:
+I am a Full-Stack Developer at Cogzin Technologies, currently focusing on React, Next.js, and Python while also learning DevOps. With experience in Node.js, Express, MongoDB, MySQL, Redux, and Tailwind CSS, I am passionate about web development, authentication systems, and UI/UX improvements. My expertise extends to backend development, authentication, and optimizing web applications for better performance. 🚀
 
 ## 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sikaboy_official/)
@@ -13,7 +13,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2496ED?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
