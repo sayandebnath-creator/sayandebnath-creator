@@ -1,15 +1,5 @@
-👋 **Welcome to my profile!**  
-I'm **Sayan Debanth**, a passionate and skilled professional:  
-
-- 🌐 **Full Stack Developer**  
-- 🌱 **Product Engineer**  
-- 🚀 **DevOps Enthusiast**  
-- 🎥 **Part-time Content Creator**  
-- 💼 **Software Developer & Problem Solver**  
-- ⚡ **React Developer**
-
 - # About Me 🚀:
-I'm currently working on: The YouTube, Blinkit, Omegle Project, where I'm enhancing features, adding caching mechanisms with Redis, and improving the backend using Node.js, Express, and MongoDB.
+- I am a Full-Stack Developer at Cogzin Technologies, currently focusing on React, Next.js, and Python while also learning DevOps. With experience in Node.js, Express, MongoDB, MySQL, Redux, and Tailwind CSS, I am passionate about web development, authentication systems, and UI/UX improvements. My expertise extends to backend development, authentication, and optimizing web applications for better performance. 🚀
 
 ## 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sikaboy_official/)
