@@ -1,5 +1,7 @@
 ## About Me 🚀:
-I am a Full-Stack Developer at Cogzin Technologies, currently focusing on React, Next.js, and Python while also learning DevOps. With experience in Node.js, Express, MongoDB, MySQL, Redux, and Tailwind CSS, I am passionate about web development, authentication systems, and UI/UX improvements. My expertise extends to backend development, authentication, and optimizing web applications for better performance. 🚀
+🚀 Full-Stack Developer | React, Next.js, Python | DevOps Enthusiast
+
+Full-Stack Developer at Cogzin Technologies, specializing in React, Next.js, and Python. Experienced in building and deploying scalable applications with Docker, configuring CI/CD pipelines, and managing SSL-secured production environments. Passionate about integrating AI-driven features into web applications, focusing on intelligent retrieval systems and contextual user experiences. Proficient in Node.js, Express, MongoDB, MySQL, Redux, and Tailwind CSS—with a strong emphasis on secure authentication, robust backend architecture, and responsive, high-performance UIs.
 
 ## 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sikaboy_official/)
