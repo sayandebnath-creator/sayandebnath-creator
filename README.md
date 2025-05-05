@@ -4,6 +4,7 @@
 Full-Stack Developer at Cogzin Technologies, specializing in React, Next.js, and Python. Experienced in building and deploying scalable applications with Docker, configuring CI/CD pipelines, and managing SSL-secured production environments. Passionate about integrating AI-driven features into web applications, focusing on intelligent retrieval systems and contextual user experiences. Proficient in Node.js, Express, MongoDB, MySQL, Redux, and Tailwind CSS—with a strong emphasis on secure authentication, robust backend architecture, and responsive, high-performance UIs.
 
 ## 📱 Socials:
+[![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/sayan__debnath)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-debnath-a05051245/)
 
 ## 💻 Tech Stack:
