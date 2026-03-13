@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=800&color=CC785C&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Sayan+Debnath;Backend+Engineer;Go+%7C+Distributed+Systems;AI+%2F+LLM+Systems+Developer;Building+%40+rokiroy.in)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=800&color=CC785C&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Sayan+Debnath;Backend+Engineer;Go+%7C+Distributed+Systems;AI+%2F+LLM+Systems+Developer)](https://git.io/typing-svg)
 
 </div>
 ## About Me 🚀:
