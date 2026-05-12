@@ -1,7 +1,7 @@
 ## About Me :
-Full Stack Engineer | React, Next.js, Python | Ai/ML Enthusiast
+Software Engineer | React, Next.js, Python | Ai/ML Enthusiast
 
-Full Stack Developer with a focus on modern web technologies like React, Next.js, and Python. Experienced in building and deploying scalable applications with Docker, configuring CI/CD pipelines, and managing SSL-secured production environments. Passionate about integrating AI-driven features into web applications, focusing on intelligent retrieval systems and contextual user experiences. Proficient in Node.js, Express, MongoDB, MySQL, Redux, and Tailwind CSS—with a strong emphasis on secure authentication, robust backend architecture, and responsive, high-performance UIs.
+I focus on modern web technologies like React, Next.js, and Python. Experienced in building and deploying scalable applications with Docker, configuring CI/CD pipelines, and managing SSL-secured production environments. Passionate about integrating AI-driven features into web applications, focusing on intelligent retrieval systems and contextual user experiences. Proficient in Node.js, Express, MongoDB, MySQL, Redux, and Tailwind CSS—with a strong emphasis on secure authentication, robust backend architecture, and responsive, high-performance UIs.
 
 ## 📱 Socials:
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sayan__debnath)
